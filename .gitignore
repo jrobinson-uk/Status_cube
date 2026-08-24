@@ -1,0 +1,9 @@
+# Holds live WiFi and Slack credentials — copy config.example.py to config.py
+config.py
+
+# Written on the device by the config page; may contain credentials
+settings.json
+
+__pycache__/
+*.pyc
+.DS_Store
